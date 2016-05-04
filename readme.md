@@ -23,7 +23,7 @@ Front end development is hard because _________.
 — Chris Coyier (@chriscoyier) July 16, 2015
 And while the majority of responses were certainly entertaining and LOL-worthy, there were some nuggets of wisdom in there as well. Let's take a look at the common themes that make front-end development, uh, development!
 
-#We have to deal with cross browser compatibility.
+###We have to deal with cross browser compatibility.
 
 Inconsistent browser behaviour
 
@@ -36,7 +36,7 @@ We should know tools that help us with cross-browser problems either automatical
 
 Cross browser compatibility is a hugely complex development task.
 
-#Oh my, all those devices!
+###Oh my, all those devices!
 
 Varying screen sizes and browsers.
 
@@ -45,7 +45,7 @@ In addition to dealing with browser inconsistencies, front end developers are al
 
 The burden of the massive landscape of different screens, browsers, and capabilities lies most heavily on front end developers.
 
-#Frameworks, libraries, preprocessing, dependencies, plugins...
+###Frameworks, libraries, preprocessing, dependencies, plugins...
 
 So many new things everyday and no idea what will become standard.
 
@@ -61,7 +61,7 @@ Not only is it fatiguing to think about the choices, it's increasingly difficult
 
 There are just as many choices, or more, at the front end level of development than there are anywhere else. Not to mention the landscape moves extremely quickly.
 
-#We're the bridge between visual designers, back end developers, and other disciplines.
+###We're the bridge between visual designers, back end developers, and other disciplines.
 
 because it doesn't feel entirely "front-end" anymore
 
@@ -76,14 +76,14 @@ The chain of blame starts with front end
 — Chris (@chrisdebelen) July 16, 2015
 Not only do we sit in the intersection of a lot of disciplines, there is some expectation that we know enough back end languages to be useful. You'd be pretty sorry WordPress developer if you didn't know any PHP. You wouldn't be very useful on a Rails project if you didn't know any Ruby or Rails conventions at all. The more you know, the more agile and self-sufficient you can be for your team.
 
-#Everybody and their dentist thinks they can do it.
+###Everybody and their dentist thinks they can do it.
 
 It's easy, make it like this..wait-now like this...ok now that we're done, can we change everything to this? it's easy...
 
 — Andrew League (@aleague888) July 16, 2015
 The barrier to entry for front end development is fairly low. Everyone has heard of HTML. They "know enough to be dangerous" as it were. Because that barrier is low and because it so easy to dabble, it makes sense people assume there isn't that much to know and that front end development isn't particularly difficult.
 
-#Naming things. And we have to name a lot of things.
+###Naming things. And we have to name a lot of things.
 
 You have to name things.
 
@@ -92,14 +92,14 @@ I imagine you've heard the maxim about naming things being one of the hardest pr
 
 Not to mention the task of copywriting often falls to us, which isn't quite naming but is in a similar vein of difficulty.
 
-#"The right way" and "the wrong way" aren't as cut and dry as with back end development.
+###"The right way" and "the wrong way" aren't as cut and dry as with back end development.
 
 No standard production pipeline. No reference browser implementation. No right answers, but tons of wrong ones.
 
 — Pelle Bjerkestrand (@pcbjerkestrand) July 16, 2015
 In back end development, if what you are expecting to happen happens, you've succeeded. Surely they are different ways to get there, some better than others. But in front end development, the paths to completing a task seem endless. Even if you've seemingly succeeded, it can feel like just a matter of time until a bug is found in how you've done it.
 
-#CSS is very hard to test.
+###CSS is very hard to test.
 
 Back end languages (and even JavaScript) can use unit testing and integration testing to help make sure the code works as expected. CSS has no such luxury. There are certainly people trying and there is some information and tools out there. But none of it is all that great and there are very few success stories.
 
@@ -109,28 +109,22 @@ There are linting tools, which help a little. There are some styleguide enforcem
 
 Front end developers need to hold a very strong understanding of the entire website in their head in order to be most effective and efficient.
 
-#JavaScript is just as complex as any other programming language. It's weird and hard.
+###JavaScript is just as complex as any other programming language. It's weird and hard.
 
 JavaScript is front end development. JavaScript is programming. Programming is part of software development. Software development is hard.
 
-#Performance is 80% on our shoulders.
+###Performance is 80% on our shoulders.
 
 The rule of thumb is that 20% of the waiting for a website to load is from back end concerns. Once HTML document has arrived, the rest of loading time is the concern of front end developers. What resources are loaded, how many resources are loaded, how optimized they are, in what fashion they load in and how that feels, etc.
 
-#It's where accessibility happens.
+###It's where accessibility happens.
 
 Building sites that are visually stunning is one thing and the accessibility of them is another. Designers care very much how users interact with a site and that might not always be a visual interaction. Designing and developing for disabilities is a discipline onto itself, but is most tightly tied to front end development. Accessibility has its own set of specifications that sadly aren't typically taught along with traditional front end development training.
 
-#It's hard to hire for.
+###It's hard to hire for.
 
 Front end developers are typically the hardest seats to fill.
 
-#And, of course...
-
-Because we make it hard.
-
-— (@mikeyb) July 16, 2015
-#Wrapping Up
 
 ___
 ###9 Gründe, warum das Frontend so anspruchsvoll ist wie das Backend
