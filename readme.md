@@ -186,3 +186,41 @@ Dem Bauen visuell sehr ansprechender Seiten steht meist die Accesibility der Sei
 Fazit
 
 Zugegeben: Der Blogpost ist natürlich subjektiv. Betrachtet man aber die Kommentare dazu, sowohl auf Twitter, Reddit, als auch innerhalb des Blogposts selbst, so scheint es zumindest keine Einzelmeinung zu sein. Zwischen technischen, kreativen und kommunikativen Herausforderungen müssen Frontend-Entwickler ihren Platz im Produktionsablauf finden. Anders als bei „Backendlern“ scheint sich dieser Platz von Projekt zu Projekt und von Unternehmen zu Unternehmen unterschiedlich darzustellen und die Programmieranforderungen unterschiedlich groß zu sein. Unterm Strich lässt sich also kaum sagen, ob der Beruf des Frontend-Entwicklers per se unterschätzt wird. Die simple Tautologie eines Kommentators fasst die Diskussion recht gut zusammen: “A developer is a developer is a developer. Different skills, same job.”
+
+___
+###Frontend-Entwickler/-in
+
+
+Wir suchen:
+
+Die Satzmedia GmbH entwickelt für ihre Kunden E-Business-Lösungen und sucht als Unterstützung für das Team eine/-n erfahrene/-n Frontend-Entwickler/-in.
+
+Aufgaben:
+
+Als Frontendentwickler/in bist Du für die Erstellung von komplexen Webanwendungen und HTML5-basierten mobilen Apps und Seiten im Team oder selbstständig verantwortlich. Du kannst Templates aus Designvorlagen bauen und unterstützt die Pflege und Weiterentwicklung vorhandener Anwendungen im Frontend.
+
+Anforderungen:
+
+Du solltest sicher in der Implementierung komplexer Webfrontends sein, Erfahrung mit den neuesten Standards, wie HTML5 und CSS3 haben und mit den wichtigsten Standards des W3Cs vertraut sein.
+
+Auch solltest Du tiefgehende Erfahrungen mit JavaScript bzw. JavaScript Bibliotheken (z.B. jQuery) haben. Erfahrungen mit Backend-Anbindungen (JSON) und der Web-Frontend-Implementierung für mobile Endgeräte sind von Vorteil.
+
+Du beherrscht die üblichen Entwicklungswerkzeuge (Adobe Photoshop, Git), kannst Template-Variablen und -Blöcke verwenden und mit einem Ticketingsystem und Wikis (zur Dokumentation) umgehen oder Dich schnell in solche Werkzeuge einarbeiten.
+
+Durch Deine mehrjährige Berufserfahrung und Affinität zum Internet kannst Du neue Anforderungen strukturiert umsetzen. Mit Deinem Gespür für Usability und Design berätst du Kunden bei kleineren Änderungswünschen eigenständig.
+
+Bewerbung:
+
+Wenn Dich diese vielseitige und spannende Aufgabe interessiert und Du eine langfristige Anstellung in Teil- oder Vollzeit mit Perspektive in einem wachsenden Unternehmen suchst, dann sende bitte Deine aussagekräftigen Bewerbungsunterlagen mit Angabe Deiner Gehaltsvorstellung und ggf. Projektreferenzen an:
+
+Satzmedia GmbH
+Herr Christian Satz
+Altonaer Poststraße 9
+22767 Hamburg
+oder an: personal@satzmedia.de
+
+Tel.: 040-1888969-0
+
+Über Satzmedia
+
+Die inhabergeführte Internet-Agentur Satzmedia entwickelt seit 1999 erfolgreich E-BusinessLösungen im B2B- und B2C-Bereich. Für die individuellen Anforderungen der Kunden werden teilweise auch eigene Softwarelösungen wie etwa catoya® für die Produktion interaktiver Kataloge, doTrackr® (Supply Chain Management) oder alixa® als große E-BusinessSuite eingesetzt. Satzmedia setzt aber auch auf Standard-Software, z.B. mit HIPPO im CMS Bereich oder Shopware im Webshop-Umfeld. In beiden Fällen agiert Satzmedia mit mehreren umgesetzten Projekten, z. B. für Montblanc, HellermannTyton, Eppendorf, Europart, Bundi/aliqua und Douglas als erfahrener Partner.
